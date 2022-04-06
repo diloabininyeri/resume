@@ -1,5 +1,5 @@
 # resume
-this is  my resume 
+
 # Dılo sürücü
 
 ```
@@ -9,7 +9,9 @@ linkedin.com/in/dilosurucu
 ## Summary
 
 Stackoverflow : https://stackoverflow.com/users/5582655/dılo-sürücü
+<br>
 Github : https://github.com/diloabininyeri
+<br>
 Youtube : https://www.youtube.com/c/dılosürücü
 
 I have been working as a software developer for 12 years actively(this year 2022), I am originally a physics
