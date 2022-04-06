@@ -1,9 +1,10 @@
-# resume
+
 
 # Dılo sürücü
 
 ```
-berxudar@gmail.com +
+berxudar@gmail.com 
++905340882563
 linkedin.com/in/dilosurucu
 ```
 ## Summary
