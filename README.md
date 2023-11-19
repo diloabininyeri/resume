@@ -4,8 +4,8 @@
 
 ```
 berxudar@gmail.com 
-+905340882563
-linkedin.com/in/diloabininyeri
++1(929) 714 7201
+linkedin.com/in/abdulkadir-sürücü/
 ```
 ## Summary
 
