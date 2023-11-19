@@ -4,7 +4,7 @@
 
 ```
 berxudar@gmail.com 
-+1(929) 714 7201
++1(929)7147201
 linkedin.com/in/abdulkadir-sürücü/
 ```
 ## Summary
