@@ -5,7 +5,7 @@
 ```
 berxudar@gmail.com 
 +1(929)7147201
-linkedin.com/in/abdulkadir-sürücü/
+https://www.linkedin.com/in/abdulkadirsurucu
 ```
 ## Summary
 
